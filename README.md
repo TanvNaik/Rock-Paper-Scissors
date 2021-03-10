@@ -1,7 +1,9 @@
 # Rock - Paper - Scissors
 
-### Login Page:
+### Rock Paper Scissors Game with PHP.
+
+#### Login Page:
 ![](/images/page1.png)
 
-### Game:
+#### Game:
 ![](/images/page2.png)
